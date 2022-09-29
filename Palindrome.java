@@ -81,7 +81,7 @@ public class Palindrome {
 	}//end reverse stack
 	
 	/**
-	 * takes a string and uses the toStack method to push it to a stack and uses the reverseStack method to push it to a stack backwards and then compares the two stacks forward and backwards to test if the word is a password
+	 * takes a string and uses the toStack method to push it to a stack and uses the reverseStack method to push it to a stack backwards and then compares the two stacks forward and backwards to test if the word is a palindrome
 	 * @param string from the user input
 	 */
 	public void isPalindrome(String string) {
